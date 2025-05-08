@@ -1,0 +1,7 @@
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\bin\Debug\LogProductos.exe.config
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\bin\Debug\LogProductos.exe
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\bin\Debug\LogProductos.pdb
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\obj\Debug\LogProductos.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\obj\Debug\LogProductos.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\obj\Debug\LogProductos.exe
+C:\Users\Brayan\Desktop\parcial dos\LogProductos\obj\Debug\LogProductos.pdb
