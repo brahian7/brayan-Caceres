@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\",
+  "WorkspaceRootPath": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|c:\\users\\brayan\\desktop\\parcial dos\\logproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|c:\\users\\brayan\\documents\\brayan-caceres\\logproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\logproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\logproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|solutionrelative:logproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2CA5B3A-9AA2-4C82-88B3-2946D57BA570}|LogProductos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\Producto.cs",
               "RelativeDocumentMoniker": "Producto.cs",
-              "ToolTip": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\Producto.cs",
               "RelativeToolTip": "Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LogProductos.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\LogProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\LogProductos.cs",
               "RelativeDocumentMoniker": "LogProductos.cs",
-              "ToolTip": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\LogProductos.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\LogProductos.cs",
               "RelativeToolTip": "LogProductos.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Brayan\\Desktop\\parcial dos\\LogProductos\\Program.cs",
+              "ToolTip": "C:\\Users\\Brayan\\Documents\\brayan-Caceres\\LogProductos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T14:38:26.777Z",
               "EditorCaption": ""

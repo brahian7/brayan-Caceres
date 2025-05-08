@@ -17,7 +17,7 @@ class Program
         bool salir = false;
         while (!salir)
         {
-            Console.WriteLine("\n--- Menú Log de Productos ---");
+            Console.WriteLine("\n--- Menú Log de Productos ---");//JAJAJAJAJAJ
             Console.WriteLine("1. Mostrar todos los productos");
             Console.WriteLine("2. Buscar productos por rango de precios");
             Console.WriteLine("3. Agregar nuevo producto");
